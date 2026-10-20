@@ -1,0 +1,16 @@
+[
+  {
+    "name": "<div class='subtitle-line enable-link'>Fcuk-Agent Fcuk-Session</div>",
+    "path": "./fcuk-agent_fcuk-session/index.html",
+    "_links": {
+      "html": "./fcuk-agent_fcuk-session/index.html"
+    }
+  },
+  {
+    "name": "<div class='subtitle-line enable-link'>Fcuk-Agent Fcuk-Soul</div>",
+    "path": "./fcuk-agent_fcuk-soul/index.html",
+    "_links": {
+      "html": "./fcuk-agent_fcuk-soul/index.html"
+    }
+  }
+]
